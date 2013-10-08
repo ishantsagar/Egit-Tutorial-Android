@@ -8,6 +8,7 @@ import android.view.Menu;
  * 
  * @author Ishant
  *
+ * This is a test comment
  */
 
 public class MainActivity extends Activity {
